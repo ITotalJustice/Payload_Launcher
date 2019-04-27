@@ -27,5 +27,7 @@ Works on Atmosphere as well as ReiNX and sxos.
 ### Credits
 
 Fork of [Payload_Launcher](https://github.com/suchmememanyskill/Payload_Launcher).
+
 Uses part of the atmosphere code from [the atmosphere repo](https://github.com/Atmosphere-NX/Atmosphere/blob/master/troposphere/reboot_to_payload/source/main.c). Licence of the atmosphere repo is included as AMS_LICENCE.
+
 For the applet, it uses the code from [nx-hbloader](https://github.com/switchbrew/nx-hbloader) with the paths modified.
