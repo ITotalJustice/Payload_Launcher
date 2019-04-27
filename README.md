@@ -8,13 +8,12 @@ Works on Atmosphere as well as ReiNX and sxos.
 ### How to install
 1. Extract the zip file to your sd card (so that payloadernx folder is inside /switch/).
 2. Have the payloads ready on your switch sd card.
-3. The default paths are
+3. The default paths are: (NOTE: You can also set your own path in the app).
  - (root of the sd card)
  - payloads/
  - argon/payloads/
  - bootloader/payloads/
  - switch/payloadernx/payloads/
-4. You can also set your own path in the app (which will be saved).
 
 ### How to install applet override
 1. Create a folder with the name of the title ID of the applet (https://switchbrew.org/wiki/Title_list).
